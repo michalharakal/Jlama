@@ -5,3 +5,8 @@ models/*
 .flattened-pom.xml
 */target/*
 tensor_debug.log
+build/
+.java-version
+.gradle
+.run
+local.properties

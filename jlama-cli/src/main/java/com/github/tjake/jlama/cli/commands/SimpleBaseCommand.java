@@ -26,7 +26,6 @@ import java.util.concurrent.atomic.AtomicReference;
 
 import com.github.tjake.jlama.safetensors.SafeTensorSupport;
 import com.github.tjake.jlama.util.ProgressReporter;
-import com.google.common.util.concurrent.Uninterruptibles;
 import me.tongfei.progressbar.ProgressBar;
 import me.tongfei.progressbar.ProgressBarBuilder;
 import me.tongfei.progressbar.ProgressBarStyle;
